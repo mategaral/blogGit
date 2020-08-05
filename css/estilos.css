@@ -28,6 +28,11 @@ body {
     font-size: 0.8em;
 }
 
+#footer {
+    background: rgb(235, 238, 238);
+    color: black;
+}
+
 #container {
     width: 70%;
     padding: 0;
