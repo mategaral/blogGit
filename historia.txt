@@ -4,6 +4,8 @@ estoy aprendido git, ademas de py
 
 voy a ser un data sciencie
 
+experimiento 1
+
 master 1
 
 master 2
