@@ -4,4 +4,6 @@ estoy aprendido git, ademas de py
 
 voy a ser un data sciencie
 
+master 1
+
 es diamante 4
